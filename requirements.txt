@@ -13,5 +13,6 @@ langchain
 langchain-community
 langchain_experimental
 pillow
+streamlit-chat==0.1.1
 
 
