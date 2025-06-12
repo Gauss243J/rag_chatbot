@@ -1,0 +1,4 @@
+venv/
+chatenv/
+.env/
+.env.

@@ -1,0 +1,17 @@
+streamlit==1.41.1
+msrest==0.7.1
+openai==0.28.0
+python-docx==0.8.11
+requests==2.31.0
+python-dotenv==1.0.0
+tiktoken
+faiss-cpu
+markdown-pdf
+PyPDF2
+pypdf
+langchain
+langchain-community
+langchain_experimental
+pillow
+
+
